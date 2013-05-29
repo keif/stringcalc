@@ -1,0 +1,18 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.0beta7",
+    "jade": "*",
+		"node-lib-template": "git+ssh://git@github.com:mantacode/node-lib-template.git"
+  },
+  "devDependencies": {
+	"jasmine-node": "*",
+	"supertest": "*",
+	"node-uuid": "*"
+  }
+}
