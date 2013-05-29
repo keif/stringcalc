@@ -1,4 +1,4 @@
-node-app-template
+# StringCalc in nodejs
 =================
 
-template for node apps
+String Calculator Kata -- Lunch &amp; Learn -- Done with Josh Shemas
